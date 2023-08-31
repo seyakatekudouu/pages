@@ -10,7 +10,7 @@
 #   レベル0
 ## レベル1
 
-![イヌ](pages/docs/hoge.png)
+![イヌ](hoge.png)
 
 
 
